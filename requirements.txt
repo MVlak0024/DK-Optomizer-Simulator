@@ -1,0 +1,7 @@
+pydfs-lineup-optimizer>=3.6.1
+streamlit>=1.28
+pandas>=2.0
+numpy>=1.24
+pulp>=2.7
+scipy>=1.11
+matplotlib>=3.7
